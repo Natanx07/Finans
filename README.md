@@ -40,8 +40,8 @@ Este projeto foi desenvolvido como prática dos seguintes conhecimentos:
 
 ## 📷 Imagem do Projeto
 
-(![Captura de Tela (75)](https://github.com/user-attachments/assets/26a3c2d6-070e-4cbd-a47c-c265a18fca7a)
-)
+![Captura de Tela (75)](https://github.com/user-attachments/assets/26a3c2d6-070e-4cbd-a47c-c265a18fca7a)
+
 
 *Substitua essa imagem por um print real da página se quiser ilustrar diretamente.*
 
