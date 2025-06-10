@@ -40,7 +40,7 @@ Este projeto foi desenvolvido como prática dos seguintes conhecimentos:
 
 ## 📷 Imagem do Projeto
 
-![Finans - print da página](![image](https://github.com/user-attachments/assets/2b6cb4b9-859b-4adf-8c06-92512ed46c4f)
+![Finans - print da página](![Captura de Tela (75)](https://github.com/user-attachments/assets/2e7370e8-40bc-4698-bd31-a5ad01f945bf)
 )
 
 *Substitua essa imagem por um print real da página se quiser ilustrar diretamente.*
@@ -58,3 +58,4 @@ Você pode visualizar o projeto publicado aqui:
 ---
 
 🧑‍💻 Desenvolvido por [Natã Lucas Ferreira Santos](https://github.com/Natanx07)
+
